@@ -3,7 +3,7 @@ spring:
   application:
     name: discovery-service
 server:
-  port:30752
+  port: 30752
      
 
 
